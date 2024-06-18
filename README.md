@@ -41,6 +41,9 @@ This assignment aims to familiarize you with the tools and configurations necess
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
 - A reflection on the challenges faced during setup and strategies employed to overcome them.
 
+Google link : https://docs.google.com/document/d/1zVbuQV6H7wFoL9pXv08BjQKZQ-4qkvJ3hdfRxww00uk/edit?usp=sharing
+Repository Link: https://github.com/JacobMagara/setting-up-my-developer-environment-assignment.git
+
 #Submission:
 Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
 
